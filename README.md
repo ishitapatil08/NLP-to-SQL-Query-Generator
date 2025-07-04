@@ -1,4 +1,5 @@
 # NLP to SQL Query Generator
+##  
 ## Project Overview
 This project is an AI-powered tool that converts plain English questions into SQL queries using LLMs (Large Language Models). It supports both:
 ## User Interface
