@@ -35,7 +35,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```bash
 streamlit run app.py (Using OpenAI Key)
 streamlit run SQLQueryGenerator.py (Offline)
-
+```
 ## Usage
 1. Enter your **OpenAI API Key** in the **Project Settings** section or let it load from `.env`.
 2. Provide the **Data File ** to your SQLite file.
