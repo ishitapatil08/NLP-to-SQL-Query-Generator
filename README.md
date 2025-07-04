@@ -16,8 +16,7 @@ This project is an AI-powered tool that converts plain English questions into SQ
 ##  Installation & Setup
 ### 1️. Clone the Repository
 ```bash
-git clone https://github.com/ghaihitasha/llm-sql-query-generator.git
-cd llm-sql-query-generator
+git clone https://github.com/ishitapatil08/NLP-to-SQL-Query-Generator.git)
 ```
 
 ### 2. Install Dependencies
@@ -33,7 +32,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ### 4. Run the Streamlit App
 ```bash
-streamlit run app.py (Using OpenAI)
+streamlit run app.py (Using OpenAI Key)
 streamlit run src/app.py(Offline)
 ```
 
