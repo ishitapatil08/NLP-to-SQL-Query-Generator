@@ -17,7 +17,7 @@ This project is an AI-powered tool that converts plain English questions into SQ
 ##  Installation & Setup
 ### 1️. Clone the Repository
 ```bash
-git clone https://github.com/ishitapatil08/NLP-to-SQL-Query-Generator.git)
+git clone https://github.com/ishitapatil08/NLP-to-SQL-Query-Generator.git
 ```
 
 ### 2. Install Dependencies
@@ -34,12 +34,11 @@ OPENAI_API_KEY=your_openai_api_key_here
 ### 4. Run the Streamlit App
 ```bash
 streamlit run app.py (Using OpenAI Key)
-streamlit run src/app.py(Offline)
-```
+streamlit run SQLQueryGenerator.py (Offline)
 
 ## Usage
 1. Enter your **OpenAI API Key** in the **Project Settings** section or let it load from `.env`.
-2. Provide the **database path** to your SQLite file.
+2. Provide the **Data File ** to your SQLite file.
 3. Enter a natural language query (e.g., "Show me all orders placed in June").
 4. Click **Generate SQL** to get the SQL query.
 5. Validate & Execute the query to see the results.
