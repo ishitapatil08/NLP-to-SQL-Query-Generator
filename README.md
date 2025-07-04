@@ -39,7 +39,7 @@ streamlit run src/app.py(Offline)
 ## Usage
 1. Enter your **OpenAI API Key** in the **Project Settings** section or let it load from `.env`.
 2. Provide the **database path** to your SQLite file.
-3. Enter a natural language query (e.g., "Show all employees who joined after 2020").
+3. Enter a natural language query (e.g., "Show me all orders placed in June").
 4. Click **Generate SQL** to get the SQL query.
 5. Validate & Execute the query to see the results.
 
