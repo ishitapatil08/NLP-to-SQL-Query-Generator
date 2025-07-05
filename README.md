@@ -18,7 +18,11 @@ This project is an AI-powered tool that converts plain English questions into SQ
 ```bash
 git clone https://github.com/ishitapatil08/NLP-to-SQL-Query-Generator.git
 ```
-### 2. Install Dependencies
+### 2. Create an Enviornment
+```bash
+python -m venv .venv 
+```
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
