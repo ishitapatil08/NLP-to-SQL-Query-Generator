@@ -4,8 +4,7 @@
 This project is an AI-powered tool that converts plain English questions into SQL queries using LLMs (Large Language Models). It supports both:
 ## User Interface
 ![image](img1.png)
-## Upload File 
-![image](img3.png)
+
 ## Features
 
 - Upload your `.csv` file 📂
